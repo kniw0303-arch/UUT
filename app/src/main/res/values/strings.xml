@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">실시간 자막 번역</string>
+    <string name="service_label">실시간 자막 번역</string>
+    <string name="service_summary">영어 자막을 읽어 한국어 자막으로 화면에 띄웁니다</string>
+    <string name="service_desc">화면에 표시되는 영어 자막(실시간 자막 Live Caption, 영상 앱 자막)의 텍스트만 읽어 한국어로 번역해 오버레이로 보여줍니다. 읽은 자막은 번역 목적 외에 저장하지 않으며, LLM 번역을 켠 경우에만 해당 자막 문장이 설정한 번역 API로 전송됩니다.</string>
+</resources>
